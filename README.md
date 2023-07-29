@@ -1,4 +1,4 @@
-FilmInsights: Power BI Project for Film Dataset Analysis
+#FilmInsights: Power BI Project for Film Dataset Analysis
 FilmInsights
 
 Overview
